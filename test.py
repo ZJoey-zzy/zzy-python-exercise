@@ -1,4 +1,5 @@
 def test():
     print("zzy ")
 
-test()
+
+print('你玩的明白吗？')
