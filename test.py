@@ -1,4 +1,4 @@
 def test():
-    print("zzy 牛逼")
+    print("zzy ")
 
 test()
